@@ -1,5 +1,7 @@
 # F.A.Q (Preguntas Frecuentes)
 
+[*Volver al indice*](https://github.com/rudahee/SE-Guides/blob/main/Indice.md)
+
 ### __Preguntas sobre la instalacion__
 - **¿Cómo lo instalo si tengo Minecraft comprado?**
 
