@@ -1,8 +1,8 @@
 # Indice de Documentos.
 
 ### Documentos Imprescindibles.
-* Reglas del Servidor
-* F.A.Q - Preguntas Frecuentes.
+* [Reglas del Servidor.](https://github.com/rudahee/SE-Guides/blob/main/Documentos%20Imprescindibles/Reglas.md).
+* [F.A.Q - Preguntas Frecuentes.](https://github.com/rudahee/SE-Guides/blob/main/Documentos%20Imprescindibles/FAQ.md)
 
 ---
 
