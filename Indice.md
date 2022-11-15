@@ -21,6 +21,3 @@
 * Usando los Comandos.
 * Creando tus Tiendas.
 * Activar tu Rango de Patreon.
-
-
-
