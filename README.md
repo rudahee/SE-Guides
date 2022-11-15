@@ -1,2 +1,3 @@
-# SE-Guides
-Scadrial Edition Guides
+# Scadrial Edition Guias.
+
+Para empezar puedes consultar el indice aqui: 
