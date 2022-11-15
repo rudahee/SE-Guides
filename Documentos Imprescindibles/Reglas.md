@@ -1,5 +1,8 @@
 # Reglas
 
+[*Volver al indice*](https://github.com/rudahee/SE-Guides/blob/main/Indice.md)
+---
+
 1. **Respeto.** No se permite ningun discurso de odio.
 
 2. **Queda prohibido el Spam/Flood**, pon enlaces solo si un moderador te ha dado permiso.
