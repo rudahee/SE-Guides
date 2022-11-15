@@ -1,6 +1,7 @@
 # Reglas
 
 [*Volver al indice*](https://github.com/rudahee/SE-Guides/blob/main/Indice.md)
+
 ---
 
 1. **Respeto.** No se permite ningun discurso de odio.
