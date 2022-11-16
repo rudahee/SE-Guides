@@ -9,18 +9,22 @@ Aun asi, ninguno de estos modpacks tiene Optifine instalado (Debido a que no dan
 
 Dejamos tambien los requisitos minimos recomendados para cada modpack:
 
+---
+
 ### Scadrial Edition: Basic
 
 * **CPU:** Al menos 2 nucleos con 3.0Ghz.
 * **RAM:** 6 Gb.
 * **Grafica:** Se recomienda una dedicada, pero si no es posible, tener RAM DDR3 (o superior) y un procesador de marca AMD suele ser mejor opcion.
 
+---
 
 ### Scadrial Edition: Enhanced
 * **CPU:** Al menos 4 nucleos con 3.6Ghz.
 * **RAM:** 8 Gb (Con grafica dedicada), 12Gb (Sin grafica dedicada)
 * **Grafica:** +3Gb de Memoria. Si no tienes una grafica integrada, lo importante es la velocidad de la RAM, recomendamos DDR4. Los graficos integrados de AMD suelen tener mayor rendimiento que los de Intel. 
 
+---
 
 Una tasa de fps decente oscila entre 40 y 60. Si no logras conseguir estos fps ni con el pack Basic, o te quedas muy cerca en el Enhanced, debeis instalar Optifine. 
 
