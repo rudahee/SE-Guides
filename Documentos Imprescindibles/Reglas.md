@@ -22,15 +22,12 @@
 
 ### Otras Recomendaciones
 
+* Solo se protegen las bases de equipos tras ser aceptada la peticion en discord.
+
 * Es muy probable que si encontramos bases/granjas dentro de los limites fijados, **se destruyan sin previo aviso.**
 
 * Recuerda, en este servidor estas permitido el PVP fuera de la ciudad. Por tanto, asegurate de tener zonas donde protegerte en tu base.
 
-
 * Acosar (matando, robando poderes, etc...) constantemente a la misma persona puede resultar en amonestaciones.
-
-
-* Aunque puedas destruir terreno de otro jugador, te recomendamos no hacerlo sin permiso. Sobre todo si usas TNT y **destruyes completamente esa zona, puedes acabar baneado.**
-
 
 * **La ley son los administradores/moderadores.** Por tanto, si te dicen que pares de hacer algo, para. Tenemos completa libertad para banearte o sancionarte en CUALQUIER MOMENTO, POR CUALQUIER MOTIVO.
