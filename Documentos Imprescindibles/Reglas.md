@@ -12,19 +12,20 @@
 
 4. **Controla el lag que generas.** No abuses de las granjas o no vayas a explorar en las horas donde haya mas actividad en el servidor.
 
-5. Las bases de equipos deben construir a partir de -1000, -1000/1000, 1000.
+5. Esta prohibido usar X-Ray o cualquier mod para hacer trampas/aprovechar bugs.
 
-6. Las granjas especialmente exigentes para el servidor se deben construir a partir de -2500, -2500/2500, 2500, y deben poder apagarse.
+6. Las bases de equipos deben construir a partir de -1000, -1000/1000, 1000.
 
-7. Esta prohibido usar X-Ray o cualquier mod para hacer trampas/aprovechar bugs.
+7. Las granjas especialmente exigentes para el servidor se deben construir a partir de -2500, -2500/2500, 2500, y deben poder apagarse.
+
 
 --- 
 
 ### Otras Recomendaciones
 
-* Solo se protegen las bases de equipos tras ser aceptada la peticion en discord.
-
 * Es muy probable que si encontramos bases/granjas dentro de los limites fijados, **se destruyan sin previo aviso.**
+
+* Solo se protegen las bases de equipos tras ser aceptada la peticion en discord.
 
 * Recuerda, en este servidor estas permitido el PVP fuera de la ciudad. Por tanto, asegurate de tener zonas donde protegerte en tu base.
 
