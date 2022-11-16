@@ -8,7 +8,7 @@
 
 2. **Queda prohibido el Spam/Flood**, pon enlaces solo si un moderador te ha dado permiso.
 
-3. **Estan completamente prohibidos los spoilers de otras sagas y "El Metal Perdido"**
+3. **Estan completamente prohibidos los spoilers de otras sagas y "El Metal Perdido"**.
 
 4. **Controla el lag que generas.** No abuses de las granjas o no vayas a explorar en las horas donde haya mas actividad en el servidor.
 
