@@ -30,7 +30,7 @@ Una vez has descargado optifine, necesitas acceder a la carpeta mods. Para ello 
 
 En la carpeta que se abre, veras una carpeta "mods". En esa carpeta debes meter el archivo con extension ".jar" que has descargado anteriormente.
 
-Una vez el archvo se encuentre en la carpeta mods, solo deberes reinciar Minecraft si lo tenias abierto.
+Una vez el archivo se encuentre en la carpeta mods, solo deberes reinciar Minecraft si lo tenias abierto.
 
 -----
 
@@ -42,7 +42,7 @@ Una vez has descargado optifine, necesitas acceder a la carpeta mods. Para ello 
 
 En la carpeta que se abre, veras una carpeta "mods". En esa carpeta debes meter el archivo con extension ".jar" que has descargado anteriormente.
 
-Una vez el archvo se encuentre en la carpeta mods, solo deberes reinciar Minecraft si lo tenias abierto.
+Una vez el archivo se encuentre en la carpeta mods, solo deberes reinciar Minecraft si lo tenias abierto.
 
 -----
 
