@@ -5,12 +5,12 @@
 ### __Preguntas sobre la instalacion__
 - **¿Cómo lo instalo si tengo Minecraft comprado?**
 
-Revisad la siguiente guía:
+Revisad la siguiente guía: [Guia de instalacion Premium](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-premium.md)
 
 
 - **¿Cómo lo instalo si tengo Minecraft No Premium?**
 
-En ese caso, mira esta otra guía:
+En ese caso, mira esta otra guía: [Guia de instalacion No Premium](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-no-premium.md)
 
 
 - **He visto las guías, pero aun tengo problemas ¿Qué hago?**
@@ -20,10 +20,7 @@ Puedes pedir ayuda por #general-minecraft, y como ultimo recurso mencionar al ro
 
 - **He instalado el modpack y me va muy mal, ¿Qué puedo hacer?**
 
-Lo primero que puedes hacer es instalar optifine, si aun asi, tienes problemas de rendimiento, puedes configurar optifine con esta configuración especialmente optimizada:
-
-Video sobre como instalar optifine:
-
+Lo primero que puedes hacer es [instalar optifine](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/optifine.md), si aun asi, tienes problemas de rendimiento, puedes configurar optifine con la configuración especialmente optimizada que se encuentra en la guia de instalacion.
 
 - **¿Puedo agregar otro mod al modpack?**
 
