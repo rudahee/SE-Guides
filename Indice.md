@@ -8,7 +8,7 @@
 
 ### Guias de Instalacion.
 * [ModPacks: ¿Cual Elegir?](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/modpacks.md)
-* Guia de Instalacion (Premium).
+* [Guia de Instalacion (Premium).](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-premium.md)
 * Guia de Instalacion (No Premium).
 * Instalando Optifine.
 
