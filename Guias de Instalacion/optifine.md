@@ -11,7 +11,10 @@ Gestionamos el modpack a partir de CurseForge, y los creadores se niegan a inclu
 Aun asi, podeis instalarlo cuando querais por vuestra cuenta, vamos a dejar una guia muy rapida de como acceder al a carpeta mods, y el enlace de descarga. La guía es bastante "vaga" a proposito porque no queremos tener nada que ver con ellos.
 
 Si teneis cualquier problema instalandolo, preguntad a aun helper/mod/admin por discord/minecraft
+
+
 ---
+
 ### Descarga Optifine
 
 Puedes descargar optifine [desde aqui](https://www.optifine.net/downloads). *Asegurate de que sea para la version 1.19.2*
