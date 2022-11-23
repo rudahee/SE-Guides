@@ -30,5 +30,5 @@ Una tasa de fps decente oscila entre 40 y 60. Si no logras conseguir estos fps n
 
 **Enlaces a las guias de instalacion:**
 
-- Instalacion para premiums.
-- Instalacion para no-premiums.
+- [Instalacion para premiums.](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-premium.md)
+- [Instalacion para no-premiums.](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-no-premium.md)
