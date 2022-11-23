@@ -5,7 +5,7 @@
 
 Hemos implementado dos paquetes de mods para que todo el mundo pueda jugar. Por defecto, el modpack recomendando es *Scadrial Edition: Enhanced*. Si tienes un pc modesto, deberias usar *Scadrial Edition: Basic*. 
 
-Aun asi, ninguno de estos modpacks tiene Optifine instalado (Debido a que no dan permiso para ser incluidos en modpacks publicos), y por tanto puedes aumentar el rendimiento instalando optifine con nuestra guia, y aplicando la configuracion especifica que se encuentra en esa misma guia.
+Aun asi, ninguno de estos modpacks tiene Optifine instalado (Debido a que no dan permiso para ser incluidos en modpacks publicos), y por tanto puedes aumentar el rendimiento [instalando optifine con nuestra guia](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/optifine.md), y aplicando la configuracion especifica que se encuentra en esa misma guia.
 
 Dejamos tambien los requisitos minimos recomendados para cada modpack:
 
