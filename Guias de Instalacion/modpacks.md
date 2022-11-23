@@ -26,7 +26,7 @@ Dejamos tambien los requisitos minimos recomendados para cada modpack:
 
 ---
 
-Una tasa de fps decente oscila entre 40 y 60. Si no logras conseguir estos fps ni con el pack Basic, o te quedas muy cerca en el Enhanced, debeis instalar Optifine. 
+Una tasa de fps decente oscila entre 40 y 60. Si no logras conseguir estos fps ni con el pack Basic, o te quedas muy cerca en el Enhanced, debeis [instalar Optifine.](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/optifine.md) 
 
 **Enlaces a las guias de instalacion:**
 
