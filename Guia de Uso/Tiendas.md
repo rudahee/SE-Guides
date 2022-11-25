@@ -1,4 +1,4 @@
-# Instalacion Premium
+# Guia: Tiendas
 
 [*Volver al indice*](https://github.com/rudahee/SE-Guides/blob/main/Indice.md)
 

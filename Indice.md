@@ -16,8 +16,8 @@
 
 ### Guias de Uso.
 * Primeros Pasos en el Servidor.
-* Reclama una Parcela.
-* Protege tu Base o Estructura.
 * Usando los Comandos.
 * Creando tus Tiendas.
-* Activar tu Rango de Patreon.
+* Activar tu Rango de Patreon/Creador de Contenido.
+* Comandos para patreons
+* Comandos para creadores de contenido
