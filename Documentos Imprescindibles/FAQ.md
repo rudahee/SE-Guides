@@ -52,7 +52,7 @@ Prueba a romperlo mientras estas agachado.
 
 - **Son muchos metales, no recuerdo que hacen**
 
-Aqui tienes un documento con una tabla con cada uno de los poderes, y sus interacciones con las armas: 
+Aqui tienes un documento con una tabla con cada uno de los poderes, y sus interacciones con las armas: [Guia de Metales](https://github.com/rudahee/SE-Guides/blob/main/Guia%20de%20Uso/guia-poderes.md)
 
 
 - **¿Donde están las ciudades / Cuales son las coordenadas de la ciudad XXXX?**
