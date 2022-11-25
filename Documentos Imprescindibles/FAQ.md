@@ -106,7 +106,11 @@ H -> Admin
 
 - **¿Que diferencias hay entre Admin, Mod y Helper?**
 
-Por escribir.
+ **Admin:** Son los máximos responsables del servidor. Ellos siempre tiene la última palabra.
+ 
+ **Mod:** Tiene permísos para moderar en el servidor y acceder a comandos complejos para administrar el mísmo.
+ 
+ **Helper:** Están para ayudar a los jugadores, ya sea dandoles los rangos base a los nuevos jugadores, dar información o resolver dudads y conflictos básicos.
 
 
 - **¿Y yo puedo conseguir otros rangos a parte del rango "registrado"?**
