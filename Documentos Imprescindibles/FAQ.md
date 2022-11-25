@@ -119,8 +119,11 @@ Si quieres mas información sobre como conseguir los rangos de forma gratuita o 
 
 - **¡Hey! ¿Como activo mi rango?**
 
-Por escribir
+Para activar tu rango dentro del juego simplemente tienes que hablar con un admin, ya sea:
+- Contactándolo por el servidor de discord del *Club de las Tormentas* en el canal de *general-minecraft* haciendo mencion a @MinecraftStaff.
+- O por el chat del própio juego si es que hay algún administrador conectado.
 
+Estos te llevaran al ayuntamiendo y tendrás que seguir sus indicaciónes para poder acceder al rango.
 
 ---
 
