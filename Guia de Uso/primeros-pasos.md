@@ -6,7 +6,9 @@
 
 **Lectura recomendada:** [F.A.Q. - Preguntas Frecuentes](#)
 
-¿Acabas de entrar al servidor y no sabes por donde empezar o que debes hacer? Pues lo primero es obtener permisos para salir del spawn, que como te habrás dado cuenta, no puedes salir.
+**¿Acabas de entrar al servidor y no sabes por donde empezar o que debes hacer?** 
+
+Pues lo primero es obtener permisos para salir del spawn, que como te habrás dado cuenta, no puedes salir.
 
 Para ello puedes mencionar el rol **@MinecraftStaff** [en nuestro discord](discord.gg/elclubdelastormentas) o hablar con cualquier Helper, Mod o Admin dentro del servidor. Los podras reconocer por sus iconos *(Si no ves los icono, activa tus resourcepacks)*
 
