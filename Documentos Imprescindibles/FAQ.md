@@ -15,7 +15,7 @@ En ese caso, mira esta otra guía: [Guia de instalacion No Premium](https://gith
 
 - **He visto las guías, pero aun tengo problemas ¿Qué hago?**
 
-Puedes pedir ayuda por #general-minecraft, y como ultimo recurso mencionar al rol @Esquirla
+Puedes pedir ayuda por #general-minecraft, y como ultimo recurso mencionar al rol @MinecraftStaff
 
 
 - **He instalado el modpack y me va muy mal, ¿Qué puedo hacer?**
@@ -37,12 +37,12 @@ Puedes eliminar todos los mods que quieras, siempre y cuando sean de "cliente", 
 
 - **He conseguido entrar al servidor pero no puedo salir del spawn ¿Cómo puedo salir?**
 
-Necesitas el rango "registrado" para salir, para eso debes buscar a un administrador/moderador dentro del servidor, si no los encuentras, pregunta por ellos en #general-minecraft 
+Necesitas el rango "registrado" para salir, para eso debes buscar a un administrador/moderador dentro del servidor, si no los encuentras, pregunta por ellos en #general-minecraft haciendo mención a @MinecraftStaff .
 
 
 - **He visto que otros jugadores han creado tiendas, ¿Como puedo hacerlo yo?**
 
-Solo necesitas mirar esta guía:
+Solo necesitas mirar esta guía: [Guia de las Tiendas](https://github.com/rudahee/SE-Guides/blob/main/Guia%20de%20Uso/Tiendas.md)
 
 
 - **¡No puedo destruir el almacen de mi tienda!**
