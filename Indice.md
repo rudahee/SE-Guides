@@ -19,6 +19,6 @@
 * [Guia de poderes.](https://github.com/rudahee/SE-Guides/blob/main/Guia%20de%20Uso/guia-poderes.md)
 * [Creando tus Tiendas.](https://github.com/rudahee/SE-Guides/blob/main/Guia%20de%20Uso/Tiendas.md)
 * Usando los Comandos.
-* Activar tu Rango de Patreon/Creador de Contenido.
+* [Activar tu Rango de Patreon/Creador de Contenido.](https://github.com/rudahee/SE-Guides/blob/main/Documentos%20Imprescindibles/FAQ.md)
 * Comandos para patreons
 * Comandos para creadores de contenido
