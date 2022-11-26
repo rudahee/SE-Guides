@@ -3,6 +3,10 @@
 [*Volver al indice*](https://github.com/rudahee/SE-Guides/blob/main/Indice.md)
 
 ---
+###   Alternativamente y mientras TLauncher verifica el modpack utiliza la guía del siguiente enlace:
+[*Guía temporal TLauncher*](https://github.com/rudahee/SE-Guides/blob/main/Guias%20de%20Instalacion/instalacion-no-premium-alternativa.md)
+
+---
 
 Si no tienes Minecraft Premium (*¡Recuerda, ahora viene incluido en GamePass!*) la instalacion del modpack varía según tu launcher, en este caso usaremos TLauncher. Solo necesitas descargar la aplicacion de TLauncher, buscar el modpack y darle al boton de jugar.
 
