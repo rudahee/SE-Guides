@@ -27,24 +27,6 @@ Pueden sobrepasar las protecciones de parcelas.
 /hd teleport <nombre>                           -> TP A UN HOLOGRAMA
 ```
 
-* Holographic Display (Para poner holograma aka texto flotante):
-
-```js
-/hd create <nombre> <texto>                     -> CREA UN TEXTO FLOTANTE
-/hd moveHere <nombre>                           -> LO MUEVE A TUS PIES
-/hd addLine <nombre> <texto>                    -> AGREGA UNA LINEA
-/hd setLine <nombre> <numero de linea> <texto>  -> SETEA UNA LINEA ESPECIFICA
-/hd remove <nombre>                             -> BORRA UN HOLOGRAMA
-/hd list                                        -> LISTA TODOS LOS HOLOGRAMAS
-/hd teleport <nombre>                           -> TP A UN HOLOGRAMA
-```
-
-* Worldguard
-```js
-/rg bypass                                      -> TE PERMITE SOBREPASAR LAS PROTECCIONES
-/wg reload                                      -> TE PERMITE RECARGA LA CONFIGURACION (Por si un rango no se aplico correctamente, o no le dio los permisos en una parcela, etc...)
-```
-
 * Worldguard
 ```js
 /rg bypass                                      -> TE PERMITE SOBREPASAR LAS PROTECCIONES
