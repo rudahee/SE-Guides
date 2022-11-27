@@ -62,7 +62,7 @@ Pueden sobrepasar las protecciones de parcelas.
 /weather                                            -> CAMBIA EL TIEMPO
 /summon                                             -> INVOCA UNA ENTIDAD
 ```
-
+---
 
 ### Funciones y Comandos para Mod
 
@@ -101,7 +101,7 @@ WorldGuard//WorldEdit
 /rg list                                            -> MUESTRA LA LISTA INTERACTIVA DE PARCELAS
 /rg info <nombre>                                   -> MUESTRA LA INFORMACION DE UNA PARCELA
 ```
-
+---
 
 ### Funciones y Comandos para Admin
 
@@ -127,6 +127,7 @@ Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip.
 /lp editor
 ```
 
+---
 
 ### GUIAS
 
