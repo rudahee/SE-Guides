@@ -18,7 +18,6 @@
 
 7. Las granjas especialmente exigentes para el servidor se deben construir a partir de -2500, -2500/2500, 2500, y deben poder apagarse.
 
-
 --- 
 
 ### Otras Recomendaciones
@@ -30,5 +29,7 @@
 * Recuerda, en este servidor estas permitido el PVP fuera de la ciudad. Por tanto, asegurate de tener zonas donde protegerte en tu base.
 
 * Acosar (matando, robando poderes, etc...) constantemente a la misma persona puede resultar en amonestaciones.
+
+* Las multicuentas, solo seran permitidos en casos especificos.
 
 * **La ley son los administradores/moderadores.** Por tanto, si te dicen que pares de hacer algo, para. Tenemos completa libertad para banearte o sancionarte en CUALQUIER MOMENTO, POR CUALQUIER MOTIVO.
