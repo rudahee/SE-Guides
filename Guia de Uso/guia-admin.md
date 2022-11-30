@@ -41,6 +41,7 @@ Pueden sobrepasar las protecciones de parcelas.
 
 * Minecraft
 ```js
+/tp                                                 -> TE TELETRANSPORTAS A OTRO JUGADOR
 /gamemode                                           -> CAMBIA TU MODO DE JUEGO O EL DE OTROS
 /give                                               -> TE DA UN ITEM
 /kill                                               -> MATAS A ALGUIEN
@@ -59,7 +60,7 @@ Pueden sobrepasar las protecciones de parcelas.
 ### Funciones y Comandos para Mod
 
 #### **Funciones**
-Son los miembros con mayores permisos de moderacion antes de los admins, que pueden acceder a la consola. Su funcion principal, es mantener el orden en el servidor y ayudar a que todo funcione correctamente, Ademas, son los encargados de asignar parcelas y teams. **Este es el rango que esta obligado a moderar antes que jugar**, y deben estar vigilando que las reglas se cumplan constantemente.
+Son los miembros con mayores permisos de moderacion antes de los admins. Su funcion principal, es mantener el orden en el servidor y ayudar a que todo funcione correctamente, Ademas de todas las funciones de los helpers, son los encargados de asignar parcelas, bases y teams. Este rango es el que debe controlar que los jugadores construyan sus bases donde tocan, que no partan nada, que no usen hacks, que no abusen de bugs, etc... **Este es el rango que esta obligado a moderar antes que jugar**, Si se incumple una de las reglas, en este caso pueden banear. Opcionalmente, pueden tener acceso al SocialSpy
 
 Pueden banear, y ver a los baneados, entrar en modo incognito, y hacer tps masivos.
 
@@ -68,7 +69,7 @@ Pueden banear, y ver a los baneados, entrar en modo incognito, y hacer tps masiv
 Minecraft
 ```js
 /team                                               -> CREA UN TEAM PARA QUE PUEDAN MANDAR MENSAJES (SOLO SI LO PIDEN)
-/ban
+/ban                                                -> QUITAS EL ACCESO A UNA PERSONA PARA SIEMPRE O DE FORMA TEMPORAL
 /banlist                                            -> LISTA DE BANEADOS
 /vanish                                             -> INVISIBLE
 /tpaall                                             -> PREGUNTA A TODOS PARA TEPEAR A TU POS
@@ -98,9 +99,13 @@ WorldGuard//WorldEdit
 ### Funciones y Comandos para Admin
 
 #### **Funciones**
-Unico rango con acceso a la consola, los admins a diferencia de los mods, puedes hacer backups, apagar el servidor, ponerlo en modo mantenimiento, etc...
-Tiene todos los permisos de worldguard, y pueden acceder a la web de luckperms desde la consola. Tambien pueden quitar el registro a personas desde la consola.
-Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip. Ademas, tienen el poder y la obligacion de comprobar el estado de servidor (Lags, errores en consola, crashes, etc...) a traves de spark y timings
+Ademas de todas las funciones de mod y helper (Y despidete de jugar), es el unico rango con acceso a la consola. los admins a diferencia de los mods, pueden hacer backups, apagar el servidor, ponerlo en modo mantenimiento, ver los logs, cambiar plugins, y todo lo que conlleva la propia administracion del servidor fuera del juego. (Esto no es necesariamente comprender como funciona todo al detalle, pero si estar pendiente que no haya errores en consola, y que el servidor funcione lo mas estable posible).
+
+Tiene todos los permisos de worldguard, y pueden acceder a la web de luckperms desde la consola, asi como resetar la contraseña de otros miembros si se les olvida.
+
+Tambien, son los unicos que pueden banear por ip y pueden desbanear, y controlar las tiendas de otros jugadores. Ademas, tienen acceso completo al SocialSpy en el propio juego. Asi como a las herramientas para comprobar el funcionamiento (lag, tps, etc..) del propio servidor.
+
+En momentos puntuales pueden poner/quitar bloques de comando, realizando el op/deop desde la consola.
 
 #### **Comandos desde el juego**
 
@@ -109,11 +114,12 @@ Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip. Adem
 /unban
 /unban-ip
 /maintenance
-/rg *
+/rg (Todos)
 /save-all
 /socialspy
-/timings
-/spark profiler
+/timings (Todos)
+/spark (Todos)
+/ishop (Todos)
 ```
 
 ### **Comandos desde la consola**
@@ -126,7 +132,7 @@ Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip. Adem
 
 ### GUIAS
 
-**CREAR PARCELA/BASE**
+**CREAR PARCELA**
 
 1. Selecciona el area con el hacha de madera (si es una parcela, desde dentro de las slabs)
 2. expandes del cielo a la bedrock con `//expand vert`
@@ -134,6 +140,22 @@ Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip. Adem
 4. le asignas un dueño: `/rg addowner -w "Scadrial" <nombre-parcela> <usuario>`
 5. Si es necesario, le agregas miembros con: `/rg addmember -w "Scadrial" <nombre-parcela> <usuario>`
 6. Para finalizar le asignas una prioridad por defecto `/rg setpriority -w "Scadrial" <nombre-parcela> 20`
+
+**CREAR BASE**
+
+1. Selecciona el area con el hacha de madera (si es una parcela, desde dentro de las slabs)
+2. expandes del cielo a la bedrock con `//expand vert`
+3. creas la region con `/rg define <nombre>`
+4. le asignas un dueño: `/rg addowner -w "Scadrial" <nombre-parcela> <usuario>`
+5. Si es necesario, le agregas miembros con: `/rg addmember -w "Scadrial" <nombre-parcela> <usuario>`
+6. Se le asigna una prioridad por defecto `/rg setpriority -w "Scadrial" <nombre-parcela> 20`
+7. Se establecen las siguientes flags:
+-`/rg flag -w "Scadrial" base-<nombre> sleep allow`
+-`/rg flag -w "Scadrial" base-<nombre> pvp allow`
+-`/rg flag -w "Scadrial" base-<nombre> tnt deny`
+-`/rg flag -w "Scadrial" base-<nombre> greeting &5mensaje &lde entrada` <- Admite codigos de color
+-`/rg flag -w "Scadrial" base-<nombre> farewell &5mensaje &lde salida` <- Admite codigos de color
+
 
 **CREAR UN TEAM**
 1. A cada miembo le pones un prefijo con: `/lp user <usuario> meta addprefix 100 "<prefijo>"`
