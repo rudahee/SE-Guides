@@ -1,4 +1,4 @@
-# Guia para moderacion
+# Guia para moderacion ¡Hay comandos que cambiar, Por causa del lag!
 ---
 
 ### Funciones y Comandos para Helper
