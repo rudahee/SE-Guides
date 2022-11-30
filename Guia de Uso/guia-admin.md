@@ -39,13 +39,6 @@ Pueden sobrepasar las protecciones de parcelas.
 /ma-powers [add|get|remove] <poder/es> <usuario>    -> MODIFICA PODERES DE ALGUIEN
 ```
 
-* InvSee++
-```js
-/invseeplusplus:invsee <nombre>                     -> VER UN INVENTARIO
-/invseeplusplus:esee <nombre>                       -> VER UN ENDERCHEST
-/invseeplusplus:igive <nombre> <item>               -> TE PERMITE DAR UN ITEM AUNQUE TENGA EL INVENTARIO LLENO O NO ESTE CONECTADO
-```
-
 * Minecraft
 ```js
 /gamemode                                           -> CAMBIA TU MODO DE JUEGO O EL DE OTROS
@@ -58,7 +51,6 @@ Pueden sobrepasar las protecciones de parcelas.
 /fly                                                -> TE DA VOLAR
 /kick <jugador> <razon>                             -> ECHAS A ALGUIEN (PON UN MOTIVO)
 /mute <jugador> <tiempo> <motivo>                   -> MUTEAS A ALGUIEN UN TIEMPO (PON UN MOTIVO)
-/seen <jugador>                                     -> TE DA LA INFO DE UN JUGADOR
 /weather                                            -> CAMBIA EL TIEMPO
 /summon                                             -> INVOCA UNA ENTIDAD
 ```
@@ -67,7 +59,7 @@ Pueden sobrepasar las protecciones de parcelas.
 ### Funciones y Comandos para Mod
 
 #### **Funciones**
-Son los miembros con mayores permisos de moderacion antes de los admins, que pueden acceder a la consola. Su funcion principal, es mantener el orden en el servidor y ayudar a que todo funcione correctamente, Ademas, son los encargados de asignar parcelas y teams. Este es el rango que esta obligado a moderar antes que jugar, y deben estar vigilando que las reglas se cumplan constantemente.
+Son los miembros con mayores permisos de moderacion antes de los admins, que pueden acceder a la consola. Su funcion principal, es mantener el orden en el servidor y ayudar a que todo funcione correctamente, Ademas, son los encargados de asignar parcelas y teams. **Este es el rango que esta obligado a moderar antes que jugar**, y deben estar vigilando que las reglas se cumplan constantemente.
 
 Pueden banear, y ver a los baneados, entrar en modo incognito, y hacer tps masivos.
 
@@ -78,7 +70,6 @@ Minecraft
 /team                                               -> CREA UN TEAM PARA QUE PUEDAN MANDAR MENSAJES (SOLO SI LO PIDEN)
 /ban
 /banlist                                            -> LISTA DE BANEADOS
-/seen                                               -> MIRA INFORMACION DE UN JUGADOR (IP PARA MULTIS, MOTIVOS DE BANEO)
 /vanish                                             -> INVISIBLE
 /tpaall                                             -> PREGUNTA A TODOS PARA TEPEAR A TU POS
 /tpall                                              -> TPA A TODOS, SIN PREGUNTAR, A TU POSICION
@@ -100,6 +91,7 @@ WorldGuard//WorldEdit
 /rg remove <nombre>                                 -> ELIMINA UNA REGION
 /rg list                                            -> MUESTRA LA LISTA INTERACTIVA DE PARCELAS
 /rg info <nombre>                                   -> MUESTRA LA INFORMACION DE UNA PARCELA
+/rg setpriority -w "Scadrial" <nombre-parcela> 20   -> DA UNA PRIORIDAD SUPERIOR A ELENDEL EN UNA PARCELA
 ```
 ---
 
@@ -108,7 +100,7 @@ WorldGuard//WorldEdit
 #### **Funciones**
 Unico rango con acceso a la consola, los admins a diferencia de los mods, puedes hacer backups, apagar el servidor, ponerlo en modo mantenimiento, etc...
 Tiene todos los permisos de worldguard, y pueden acceder a la web de luckperms desde la consola. Tambien pueden quitar el registro a personas desde la consola.
-Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip.
+Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip. Ademas, tienen el poder y la obligacion de comprobar el estado de servidor (Lags, errores en consola, crashes, etc...) a traves de spark y timings
 
 #### **Comandos desde el juego**
 
@@ -119,6 +111,9 @@ Tambien, son los unicos que pueden banear por ip y pueden desbanear por ip.
 /maintenance
 /rg *
 /save-all
+/socialspy
+/timings
+/spark profiler
 ```
 
 ### **Comandos desde la consola**
